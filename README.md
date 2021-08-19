@@ -20,6 +20,7 @@ Feel free to comment if you have problems using it, or if it stops working.
 Feel free to propose changes and improvements: as mentioned above, I am not a professional programmer :)
 You can propose changes to me or use the code to create an improved version.
 
+Forked from ManoloZocco: https://github.com/ManoloZocco/Panopto-Video-Downloader
 Based on downloadPanopto by dfaour: https://github.com/dfaour/downloadPanopto
 
 Released under GNU General License 3.0.
